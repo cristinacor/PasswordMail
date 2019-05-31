@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PasswordMail</string>
+    <string name="password">password</string>
+    <string name="email">E-mail</string>
+    <string name="boton">boton</string>
+    <string name="saludo">Hola</string>
+    <string name="edad">edad</string>
+    <string name="nombre">nombre</string>
+    <string name="recordar">recordar</string>
+    <string name="nombre1">Nombre y Apellidos</string>
+    <string name="toast">Mostrar Toast</string>
+    <string name="Snack">Mostrar SnackBar</string>
+</resources>
